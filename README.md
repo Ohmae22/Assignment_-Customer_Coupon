@@ -18,11 +18,13 @@ Below some of the Key EDA visualisation result on the dataset:
 
 ![Screenshot 2024-03-09 at 7 56 50 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/516ea2be-53eb-428e-9cee-31819a95eddd)
 
-
 ![Screenshot 2024-03-09 at 7 56 17 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/39f9c6cc-8a81-46c5-ad63-4d00ce52170c)
 
+![Screenshot 2024-03-09 at 7 57 40 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/92f7fa16-e69e-4348-8f70-e6b795b78d0b)
 
+![Screenshot 2024-03-09 at 7 58 01 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/52caaae4-dad2-4087-b8e6-a697cee4063d)
 
+![Screenshot 2024-03-09 at 7 58 16 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/a7ce4799-a19e-4267-90a0-b48cb96f61af)
 
 
 
