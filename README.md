@@ -2,5 +2,8 @@ Data analysis on the data based on UCI Machine Learning repository and was colle
 Objective is to seek to answer the question, “Will a customer accept the coupon?”
 The data consists attributes of : Gender, Age, Marital Status, Number of children, Education, Occupation etc.
 
-Attached is the link to the notebook
+Attached is the link to the notebook: prompt.ipynb
+
+
+
 
