@@ -14,6 +14,15 @@ The general overall findings of the dataset EDA showing:
 
 4. Contextual Factors: Weather and temperature appear to impact coupon acceptance rates, with potential preferences for coffee house visits during certain weather conditions or temperatures. This highlights the opportunity for dynamic marketing campaigns that adjust offers based on current weather conditions to align with customer preferences.
 
+Below some of the Key EDA visualisation result on the dataset:
+
+![Screenshot 2024-03-09 at 7 56 50 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/516ea2be-53eb-428e-9cee-31819a95eddd)
+
+
+![Screenshot 2024-03-09 at 7 56 17 PM](https://github.com/Ohmae22/Assignment_-Customer_Coupon/assets/88304497/39f9c6cc-8a81-46c5-ad63-4d00ce52170c)
+
+
+
 
 
 
